@@ -16,3 +16,4 @@
 *.png		-text
 *.gif		-text
 *.jpg		-text
+*.html linguist-language=javaScript
