@@ -1,4 +1,9 @@
-CKEditor5 编译项目
+## CKEditor5 编译项目
+
+这个项目是本人编译一个CKEditor5项目的实践，如果需要了解其他CKEditor5相关细节，请查看官方文档。
+CKEditor5官方文档[地址](https://ckeditor.com/docs/ckeditor5/latest/index.html), CKEditor5官方github[仓库](https://github.com/ckeditor/ckeditor5)
+
+#### 编译步骤：
 
 1. 拉下项目之后，首先使用npm安装依赖：
 ```
